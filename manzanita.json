@@ -2,8 +2,8 @@
 	{
 		"id": 1,
 		"nombre": "ManzanaCentral",
-		"posicion": [-206.626, 22.91, 199.233],
-		"colorIndex": 1,
+		"posicion": [-103.837, 22.341, 244.754],
+		"colorIndex": 2,
 		"escala": [3.65, 3.14, 3.91],
 		"rotacion": [0, 0, 0],
 		"activa": true
@@ -12,7 +12,7 @@
 	{
 		"id": 2,
 		"nombre": "Manzana2",
-		"posicion": [-202.564, 22.91, 199.233],
+		"posicion": [-103.837, 22.341, 228.37],
 		"colorIndex": 2,
 		"escala": [3.65, 3.14, 3.91],
 		"rotacion": [0, 0, 0],
@@ -22,8 +22,8 @@
 	{
 		"id": 3,
 		"nombre": "Manzana3",
-		"posicion": [-182.852, 22.91, 199.233],
-		"colorIndex": 1,
+		"posicion": [-103.837, 22.341, 211.655],
+		"colorIndex": 2,
 		"escala": [3.65, 3.14, 3.91],
 		"rotacion": [0, 0, 0],
 		"activa": true
@@ -32,20 +32,30 @@
 	{
 		"id": 4,
 		"nombre": "Manzana4",
-		"posicion": [-159.331, 22.91, 199.233],
+		"posicion": [77.575, 36.037, 100.899],
 		"colorIndex": 1,
 		"escala": [3.65, 3.14, 3.91],
-		"rotacion": [0, 0, 0],
+		"rotacion": [0, 70.215, 0],
 		"activa": true
 	},
 
 	{
 		"id": 5,
 		"nombre": "Manzana5",
-		"posicion": [-129.331, 32.91, 199.233],
+		"posicion": [62.158, 36.037, 95.353],
 		"colorIndex": 1,
 		"escala": [3.65, 3.14, 3.91],
-		"rotacion": [0, 0, 0],
+		"rotacion": [0, 70.215, 0],
+		"activa": true
+	},
+
+	{
+		"id": 6,
+		"nombre": "Manzana5",
+		"posicion": [46.43, 36.037, 89.695],
+		"colorIndex": 1,
+		"escala": [3.65, 3.14, 3.91],
+		"rotacion": [0, 70.215, 0],
 		"activa": true
 	}
 ]
