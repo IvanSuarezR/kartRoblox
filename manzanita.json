@@ -3,7 +3,7 @@
 		"id": 1,
 		"nombre": "ManzanaCentral",
 		"posicion": [-206.626, 22.91, 199.233],
-		"colorIndex": 3,
+		"colorIndex": 1,
 		"escala": [3.65, 3.14, 3.91],
 		"rotacion": [0, 0, 0],
 		"activa": true
