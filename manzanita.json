@@ -57,5 +57,35 @@
 		"escala": [3.65, 3.14, 3.91],
 		"rotacion": [0, 70.215, 0],
 		"activa": true
+	},
+
+	{
+		"id": 7,
+		"nombre": "Manzana7",
+		"posicion": [11.483, 59.448, -71.782],
+		"colorIndex": 3,
+		"escala": [3.65, 3.14, 3.91],
+		"rotacion": [0, 70.215, 0],
+		"activa": true
+	},
+
+	{
+		"id": 8,
+		"nombre": "Manzana8",
+		"posicion": [-3.886, 60.583, -65.348],
+		"colorIndex": 3,
+		"escala": [3.65, 3.14, 3.91],
+		"rotacion": [0, 70.215, 0],
+		"activa": true
+	},
+
+	{
+		"id": 9,
+		"nombre": "Manzana9",
+		"posicion": [-19.17, 62.048, -57.229],
+		"colorIndex": 3,
+		"escala": [3.65, 3.14, 3.91],
+		"rotacion": [0, 70.215, 0],
+		"activa": true
 	}
 ]
