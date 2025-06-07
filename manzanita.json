@@ -13,7 +13,7 @@
 		"id": 2,
 		"nombre": "Manzana2",
 		"posicion": [-202.564, 22.91, 199.233],
-		"colorIndex": 1,
+		"colorIndex": 2,
 		"escala": [3.65, 3.14, 3.91],
 		"rotacion": [0, 0, 0],
 		"activa": true
@@ -33,6 +33,16 @@
 		"id": 4,
 		"nombre": "Manzana4",
 		"posicion": [-159.331, 22.91, 199.233],
+		"colorIndex": 1,
+		"escala": [3.65, 3.14, 3.91],
+		"rotacion": [0, 0, 0],
+		"activa": true
+	},
+
+	{
+		"id": 5,
+		"nombre": "Manzana5",
+		"posicion": [-129.331, 32.91, 199.233],
 		"colorIndex": 1,
 		"escala": [3.65, 3.14, 3.91],
 		"rotacion": [0, 0, 0],
