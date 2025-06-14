@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"nombre": "ManzanaCentral",
+		"nombre": "Manzana1",
 		"posicion": [-103.837, 22.341, 244.754],
 		"color": [0, 255, 0],
 		"escala": [3.65, 3.14, 3.91],
