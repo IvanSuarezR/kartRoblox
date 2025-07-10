@@ -1,3 +1,4 @@
+daipwdiwahjiognvhbfoawnbgofnawogn
 87161E
 880498
 AE38BC
@@ -18,4 +19,4 @@ BellButtonOn
 PropButtonOn
 5010
 15000
-2.32
+2.40
